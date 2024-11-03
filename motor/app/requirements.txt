@@ -1,0 +1,5 @@
+starlette
+uvicorn
+fastapi[standard]
+sqlalchemy
+alembic
